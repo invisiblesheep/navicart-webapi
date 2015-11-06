@@ -29,5 +29,7 @@ namespace Navicart.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<Navicart.Models.Product> Products { get; set; }
     }
 }

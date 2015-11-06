@@ -17,6 +17,6 @@ namespace Navicart.Controllers
             return "value";
         }
 
-        // POST product/search/nimi
+        // POST/GET product/search/nimi
     }
 }

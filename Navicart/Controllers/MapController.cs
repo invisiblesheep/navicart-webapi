@@ -10,9 +10,9 @@ namespace Navicart.Controllers
     public class MapController : ApiController
     {
 
-        // GET api/map/id
-        [Route("api/map/id")]
-        public IEnumerable<string> Get()
+        // GET api/map
+        [Route("api/map")]
+        public IEnumerable<string> GetMap(int id)
         {
             return new string[] { "value1", "value2" };
         }
