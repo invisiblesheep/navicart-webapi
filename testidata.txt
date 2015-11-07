@@ -1,0 +1,338 @@
+MAP
+ID: 100
+map_path: [[0,0], [0,1000], [1000,1000], [1000,0]]
+
+Shelves
+ID: 1
+shelf_path: [[50,750], [50,950], [75,950], [75,750]]
+ID: 2
+shelf_path: [[50,500], [50,700], [75,700], [75,500]]
+ID: 3
+shelf_path: [[50,250], [50,450], [75,450], [75,250]]
+ID: 4
+shelf_path: [[150,925], [150,950], [350,925], [350,950]]
+ID: 5
+shelf_path: [[150,825], [150,850], [350,825], [350,850]]
+ID: 6
+shelf_path: [[150,725], [150,750], [350,725], [350,750]]
+ID: 7
+shelf_path: [[150,625], [150,650], [350,625], [350,650]]
+ID: 8
+shelf_path: [[150,525], [150,550], [350,525], [350,550]]
+ID: 9
+shelf_path: [[150,424], [150,450], [350,425], [350,450]]
+ID: 10
+shelf_path: [[150,325], [150,350], [350,325], [350,350]]
+ID: 11
+shelf_path: [[150,225], [150,250], [350,225], [350,250]]
+ID: 12
+shelf_path: [[400,925], [400,950], [600,925], [600,950]]
+ID: 13
+shelf_path: [[400,825], [400,850], [600,825], [600,850]]
+ID: 14
+shelf_path: [[400,725], [400,750], [600,725], [600,750]]
+ID: 15
+shelf_path: [[400,625], [400,650], [600,625], [600,650]]
+ID: 16
+shelf_path: [[400,525], [400,550], [600,525], [600,550]]
+ID: 17
+shelf_path: [[400,425], [400,450], [600,425], [600,450]]
+ID: 18
+shelf_path: [[400,325], [400,350], [600,325], [600,350]]
+ID: 19
+shelf_path: [[400,225], [400,250], [600,225], [600,250]]
+ID: 20
+shelf_path: [[650,925], [650,950], [850,925], [850,950]]
+ID: 21
+shelf_path: [[650,825], [650,850], [850,825], [850,850]]
+ID: 22
+shelf_path: [[650,725], [650,750], [850,725], [850,750]]
+ID: 23
+shelf_path: [[650,625], [650,650], [850,625], [850,650]]
+ID: 24
+shelf_path: [[650,525], [650,550], [850,525], [850,550]]
+ID: 25
+shelf_path: [[650,425], [650,450], [850,425], [850,450]]
+ID: 26
+shelf_path: [[650,325], [650,350], [850,325], [850,350]]
+ID: 27
+shelf_path: [[650,225], [650,250], [850,225], [850,250]]
+ID: 28
+shelf_path: [[925,750], [925,950], [950,950], [950,750]]
+ID: 29
+shelf_path: [[925,500], [925,700], [950,700], [950,500]]
+ID: 30
+shelf_path: [[925,250], [925,450], [950,450], [950,250]]
+
+Product
+ID: 1
+Name: silakka
+ShelfId: 1
+ShelfSlot: 4
+
+ID: 2
+Name: maito
+ShelfId: 3
+ShelfSlot: 3
+
+ID: 3
+Name: päärynä
+ShelfId: 5
+ShelfSlot: 2
+
+ID: 4
+Name: omena
+ShelfId: 6
+ShelfSlot: 2
+
+ID: 5
+Name: jogurtti
+ShelfId: 7
+ShelfSlot: 3
+
+ID: 6
+Name: makkara
+ShelfId: 9
+ShelfSlot: 3
+
+ID: 7
+Name: kondensoitu maito
+ShelfId: 11
+ShelfSlot: 1
+
+ID: 8
+Name: suklaalevy
+ShelfId: 12
+ShelfSlot: 2
+
+ID: 9
+Name: tikkari
+ShelfId: 13
+ShelfSlot: 1
+
+ID: 10
+Name: sulatejuusto
+ShelfId: 14
+ShelfSlot: 3
+
+ID: 11
+Name: appelsiini
+ShelfId: 15
+ShelfSlot: 2
+
+ID: 12
+Name: hammastahna
+ShelfId: 16
+ShelfSlot: 1
+
+ID: 13
+Name: ripsiväri
+ShelfId: 17
+ShelfSlot: 1
+
+ID: 14
+Name: maksalaatikko
+ShelfId: 17
+ShelfSlot: 2
+
+ID: 15
+Name: tomaatti
+ShelfId: 19
+ShelfSlot: 4
+
+ID: 16
+Name: jauheliha
+ShelfId: 21
+ShelfSlot: 1
+
+ID: 17
+Name: jarrulevy
+ShelfId: 23
+ShelfSlot: 1
+
+ID: 18
+Name: nakkipaketti
+ShelfId: 25
+ShelfSlot: 3
+
+ID: 19
+Name: pakastepizza
+ShelfId: 26
+ShelfSlot: 3
+
+ID: 20
+Name: irtokarkkeja
+ShelfId: 26
+ShelfSlot: 4
+
+ID: 20
+Name: kalaa
+ShelfId: 27
+ShelfSlot: 4
+
+ID: 21
+Name: rehuja
+ShelfId: 28
+ShelfSlot: 1
+
+ID: 22
+Name: voi
+ShelfId: 28
+ShelfSlot: 4
+
+ID: 23
+Name: piimä
+ShelfId: 29
+ShelfSlot: 1
+
+ID: 24
+Name: ravitsevaa ja hyvää olutta
+ShelfId: 29
+ShelfSlot: 2
+
+
+Advertisement
+
+ID: 1
+Name: porkkana
+ShelfId: 4
+ShelfSlot: 1
+
+ID: 2
+Name: siideri (omena, orgaaninen)
+ShelfId: 5
+ShelfSlot: 1
+
+ID: 3
+Name: suolakurkku
+ShelfId: 7
+ShelfSlot: 1
+
+ID: 4
+Name: punajuuri
+ShelfId: 7
+ShelfSlot: 2
+
+ID: 5
+Name: soijarouhe
+ShelfId: 8
+ShelfSlot: 2
+
+ID: 6
+Name: paperilautanen
+ShelfId: 9
+ShelfSlot: 2
+
+ID: 7
+Name: kinkkukiusaus
+ShelfId: 10
+ShelfSlot: 1
+
+ID: 8
+Name: kookosöljy
+ShelfId: 10
+ShelfSlot: 2
+
+ID: 9
+Name: sitruuna
+ShelfId: 12
+ShelfSlot: 1
+
+ID: 10
+Name: lime
+ShelfId: 14
+ShelfSlot: 1
+
+ID: 11
+Name: bbq-kastike
+ShelfId: 15
+ShelfSlot: 1
+
+ID: 12
+Name: pakastevihannekset
+ShelfId: 18
+ShelfSlot: 1
+
+ID: 13
+Name: kananmunia
+ShelfId: 18
+ShelfSlot: 2
+
+ID: 14
+Name: appelsiinimehu
+ShelfId: 19
+ShelfSlot: 1
+
+ID: 15
+Name: coca-cola
+ShelfId: 20
+ShelfSlot: 2
+
+ID: 16
+Name: cocktail-hedelmiä
+ShelfId: 21
+ShelfSlot: 2
+
+ID: 17
+Name: kidenypavut
+ShelfId: 22
+ShelfSlot: 1
+
+ID: 18
+Name: salsakastike (mieto)
+ShelfId: 22
+ShelfSlot: 2
+
+ID: 19
+Name: tacokastike (hot)
+ShelfId: 23
+ShelfSlot: 2
+
+ID: 20
+Name: jalapeno
+ShelfId: 24
+ShelfSlot: 1
+
+ID: 21
+Name: tortillat
+ShelfId: 24
+ShelfSlot: 3
+
+ID: 22
+Name: ananas
+ShelfId: 25
+ShelfSlot: 1
+
+ID: 23
+Name: vessapaperi
+ShelfId: 26
+ShelfSlot: 1
+
+ID: 24
+Name: tiskiaine
+ShelfId: 30
+ShelfSlot: 1
+
+ID: 25
+Name: jätesäkkejä (10l)
+ShelfId: 30
+ShelfSlot: 2
+
+ID: 26
+Name: paristot (AAA)
+ShelfId: 30
+ShelfSlot: 3
+
+ID: 
+Name: lihaperunasoselaatikko
+ShelfId: 30
+ShelfSlot: 4
+
+
+
+
+
+
+
+
+
